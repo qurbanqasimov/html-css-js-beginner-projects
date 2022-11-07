@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header nav {
+    background-color: rgb(7, 7, 68);
+    text-align: center;
+    padding: 50px;
+}
+
+header nav a{
+    color: white;
+    margin: 30px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+header nav a:hover{
+color: black;
+background-color: aliceblue;
+border-radius: 5px;
+}
+
+
+.clock{
+margin: 20px;
+margin-left: 16em;
+font-size: 30px;
+
+}
+
+.imgg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+    height: 650px;
+}
+
+p{
+text-align: center;
+margin: 20px;
+line-height: 1.3em;
+padding-left: 420px;
+padding-right: 300px;
+font-size:30px;
+text-align: left;
+}
+
+h2{
+margin: 50px;
+margin-left: 8.9em;
+font-size: 50px;
+}
+
+.a1{
+margin: 14.6em;
+
+font-size: 30px;
+text-decoration: none;
+color: rgb(242, 242, 248);
+background-color: rgb(6, 56, 99);
+border: 3px solid rgb(7, 7, 7);
+border-radius: 5px;
+}
+hr{
+    margin: 30px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+.footer{
+    font-size: 30px;
+    background-color: rgb(8, 8, 63);
+    color: white;
+    text-align: center;
+    margin: 30px 0  0;
+    padding: 30px;
+}
